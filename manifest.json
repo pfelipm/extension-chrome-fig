@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Forzar Idioma en Google",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Permite forzar el idioma de la interfaz en servicios de Google compatibles.",
   "permissions": [
     "activeTab",

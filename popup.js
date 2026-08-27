@@ -6,12 +6,13 @@ const knownWorkingDomains = [
     'analytics.google.com',
     'calendar.google.com',
     'classroom.google.com',
-    'docs.google.com', // Incluye Docs, Sheets, Slides, Forms y Drawings
+    'console.cloud.google.com',
+    'datastudio.google.com',
+    'docs.google.com', // Incluye Docs, Sheets, Slides, Forms, Drawings y Vids
     'drive.google.com',
     'gemini.google.com',
     'keep.google.com',
-    'lookerstudio.google.com',
-    'notebooklm.google.com',
+    'notebook.google.com',
     'photos.google.com',
     'script.google.com',
     'sites.google.com',

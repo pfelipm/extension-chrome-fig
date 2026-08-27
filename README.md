@@ -61,14 +61,15 @@ Se sabe que la extensión funciona con los siguientes servicios de Google:
 * Calendar | `calendar.google.com`
 * Classroom | `classroom.google.com`
 * Consola de administración de Google Workspace | `admin.google.com`
+* Consola de Google Cloud Platform (GCP) | `console.cloud.google.com`
+* Data Studio | `datastudio.google.com`
 * Drive | `drive.google.com`
-* Editores de Google (Docs, Sheets, slides, Forms y Drawings) | `docs.google.com`
+* Editores de Google (Docs, Sheets, Slides, Forms, Drawings, Vids, etc.) | `docs.google.com`
 * Fotos | `photos.google.com`
 * Gemini | `gemini.google.com`
+* Gemini Notebook | `notebook.google.com`
 * IDE Apps Script | `script.google.com`
 * Keep | `keep.google.com`
-* Looker Studio | `lookerstudio.google.com`
-* NotebookLM | `notebooklm.google.com`
 * Sites | `sites.google.com`
 * Tareas | `tasks.google.com`
 
